@@ -104,22 +104,33 @@ then stops and removes the container.
 
 ## Clustering Results
 
-We built a profile for each user based on their activity then applied K-Means with 4 clusters:
+We built a profile for each user based on their activity (total events, views, 
+cart adds, purchases, average price) then applied K-Means clustering with k=4.
 
-| Cluster | Size | Type |
-| 0 | 29,122 | Casual Browsers |
-| 1 | 173 | Power Buyers |
-| 2 | 2,021 | Regular Buyers |
-| 3 | 1,732 | Luxury Browsers |
+| Cluster | Size | Customer Type | Behavior |
+|---|---|---|---|
+| 0 | 29,122 | Casual Browsers | Low activity, rarely purchases |
+| 1 | 173 | Power Buyers | High purchases, explores many products |
+| 2 | 2,021 | Regular Buyers | Moderate activity, occasional purchases |
+| 3 | 1,732 | Luxury Browsers | Low activity, very high average price |
+
+> Most users (88%) are casual browsers. Power buyers are only 0.5% of users
+> but are the most valuable segment driving the majority of revenue.
 
 ---
 
 ## Screenshots
 
 ### Pipeline Execution
+![pipeline1](pipeline1.png)
+![pipeline2](pipeline2.png)
+![pipeline3](pipeline3.png)
 
-
-### Visualization Output
-
+### Summary Script
+![summary](screenshot_summary.png)
 
 ### Results Folder
+![results](screenshot_results.png)
+
+### Visualization Output
+![visualization](summary_plot.png)
