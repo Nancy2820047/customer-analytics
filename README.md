@@ -81,6 +81,13 @@ then stops and removes the container.
 
 ---
 
+## Docker Hub
+
+The image is publicly available on Docker Hub:
+```bash
+docker pull nancymohamed/cosmetics-pipeline
+```
+
 ## Outputs
 
 `data_raw.csv` : Raw copy of the original dataset 
