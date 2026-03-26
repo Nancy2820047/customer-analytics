@@ -1,0 +1,26 @@
+Customer Behavior Types
+customer_type
+casual browser             23344
+interested but hesitant     6516
+window shopper              1394
+serious buyer               1097
+impulsive buyer              697
+
+Percentages:
+customer_type
+casual browser             70.64
+interested but hesitant    19.72
+window shopper              4.22
+serious buyer               3.32
+impulsive buyer             2.11
+
+Most users are window shoppers or casual browsers.
+Serious and impulsive buyers are the key revenue drivers
+even though they are the smallest groups.
+
+Weekend vs Weekday Purchases:
+Weekday purchases: 7751 (48.47%)
+Weekend purchases: 8240 (51.53%)
+
+Most purchases happen on weekdays, suggesting customers
+shop during work/school breaks rather than on weekends.

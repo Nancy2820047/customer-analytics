@@ -1,0 +1,14 @@
+Customer Conversion Funnel
+Total events: 242069
+Views:             115996 (47.92%)
+Cart adds:         70455 (29.11%)
+Cart removals:     39627 (16.37%)
+Purchases:         15991 (6.61%)
+
+Conversion rate (views to purchases): 13.79%
+Cart abandonment rate:                77.3%
+
+Only 13.79% of product views end in a purchase.
+77.3% of users who add to cart never complete the purchase.
+This is a major opportunity — recovering even 10% of abandoned carts
+could significantly increase revenue.

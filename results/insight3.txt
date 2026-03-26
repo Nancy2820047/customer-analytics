@@ -1,0 +1,35 @@
+Shopping Patterns & Pricing
+Top 3 purchase hours (24h):
+hour
+20    1075
+10    1012
+15     967
+
+Busiest purchase day: Friday
+
+Average price by event type:
+event_type
+cart                 4.92
+purchase             4.63
+remove_from_cart     5.02
+view                12.97
+
+Top 5 brands by purchases:
+brand
+unknown    6348
+irisk      1339
+runail     1263
+masura     1221
+grattol     533
+
+Purchases by price range:
+price_range
+budget     11705
+mid         3977
+premium      253
+luxury        56
+
+Customers tend to buy budget and mid range products the most.
+Premium and luxury items get viewed often but purchased rarely.
+The most purchased brands dominate both views and purchases,
+suggesting brand loyalty plays a role in cosmetics shopping.

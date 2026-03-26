@@ -1,0 +1,21 @@
+K-Means Clustering Results (k=4)
+Users per cluster:
+cluster
+0    29122
+1      173
+2     2021
+3     1732
+
+Cluster profiles (average behavior):
+         total_events  views  cart_adds  purchases  avg_price  unique_products
+cluster                                                                       
+0                3.61   2.26       0.84       0.12      10.79             2.66
+1              192.27  60.82      65.13      20.16       4.34            96.59
+2               49.39  17.83      17.14       4.43       5.89            29.44
+3                2.18   2.04       0.09       0.02     125.46             1.66
+
+Cluster interpretation:
+  Cluster with highest purchases = Serious Buyers
+  Cluster with high views but low purchases = Window Shoppers
+  Cluster with high cart_adds but low purchases = Hesitant Buyers
+  Cluster with low activity overall = Casual Browsers
