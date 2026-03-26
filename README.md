@@ -141,3 +141,7 @@ cart adds, purchases, average price) then applied K-Means clustering with k=4.
 
 ### Visualization Output
 ![visualization](summary_plot.png)
+
+## Links
+- GitHub: https://github.com/Nancy2820047/customer-analytics
+- Docker Hub: https://hub.docker.com/r/nancymohamed/cosmetics-pipeline
