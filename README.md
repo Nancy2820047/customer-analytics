@@ -9,10 +9,10 @@ group users by behavior using K-Means clustering.
 
 ## Team Members
 
--Nancy Ahmed Mohamed 231000470
--Habiba Bahbah   231001544 
--Yasmin Ahmed   231000088  
--Habiba Ayman   231000939
+Nancy Ahmed Mohamed 231000470
+Habiba Bahbah   231001544 
+Yasmin Ahmed   231000088  
+Habiba Ayman   231000939
 
 ---
 
